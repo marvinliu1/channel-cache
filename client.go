@@ -1,6 +1,6 @@
 // Created by:	M Liu, Aug 15, 2022
 
-package cache
+package github.com/marvinliu1/channel-cache
 
 // Client
 type Client struct {
